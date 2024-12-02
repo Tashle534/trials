@@ -1,6 +1,0 @@
-# Ignore all bin directories
-bin/
-#other rules
-*.tmp
-*.log
-git rm -r --cached bin/
